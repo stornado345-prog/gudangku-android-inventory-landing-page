@@ -1,0 +1,7 @@
+{
+  "name": "Gudangku - Android Inventory Management",
+  "description": "Modern landing page showcasing Gudangku, a real-time Android warehouse and inventory management application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
